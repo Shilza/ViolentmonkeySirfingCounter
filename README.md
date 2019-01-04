@@ -18,5 +18,4 @@ To change the site for counting the time of surfing, you can change the field **
 // @require https://code.jquery.com/jquery-1.12.4.js
 // @require https://code.jquery.com/ui/1.12.1/jquery-ui.js
 // ==/UserScript==
-//
 ``` 
